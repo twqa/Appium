@@ -1,6 +1,6 @@
 # For IOS
 
-# Scenario: Launch Safari on IOS device, and navigate to xxx page.
+Scenario: Launch Safari on IOS device, and navigate to xxx page.
 
 ## Steps
 
@@ -10,15 +10,19 @@ Refer to [QUICK START](http://appium.io/getting-started.html?lang=en) and [Runni
 
 ### Install appium via console
 
-`$ npm install -g appium`
+```
+$ npm install -g appium
+```
 
 ### Initialize nodejs env
 
-`
+```
 $ npm install chai -g
 $ npm install chai-as-promised -g
 $ npm install wd -g 
-`
+```
 ### Run appium
 
-`$ appium`
+```
+$ appium
+```

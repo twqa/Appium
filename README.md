@@ -26,3 +26,10 @@ $ npm install wd -g
 ```
 $ appium
 ```
+
+### Run script
+
+```
+node AppiumSafariDemoTest.js
+```
+
